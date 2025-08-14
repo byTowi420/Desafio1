@@ -12,7 +12,7 @@ public class Multiplication
         return a * b;
     }
 }
-
+//Esta clase implementa la opeación división
 public class Division
 {
     public static double Divide(int a, int b)
