@@ -11,7 +11,15 @@ public class Addition
         return a + b;
     }
 }
+//En esta clase, se implementa la operación Sustracción
 
+public class Substraction
+{
+    public static int Substract(int a, int b)
+    {
+        return a - b;
+    }
+}
 
 //Esta clase implementa la operación Multiplicación
 public class Multiplication
