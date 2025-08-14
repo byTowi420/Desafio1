@@ -13,6 +13,7 @@ public class Addition
 }
 //En esta clase, se implementa la operación Sustracción
 
+// Esta clase implementa la operación resta
 public class Substraction
 {
     public static int Substract(int a, int b)
